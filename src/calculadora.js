@@ -5,8 +5,8 @@ function somarDoisNumeros(valor1, valor2) {
 }
 //passo 1 - calcule a média de dois números utilizando a função do exercício 1.
 function calcularMediaDeDoisNumeros(valor1, valor2) {
-    const resultadoDASomaDeDoisValores = somarDoisNumeros(valor1, valor2);
-    const resultadoDaMediaDeDoisValores = resultadoDASomaDeDoisValores / 2;
+    const resultadoDaSomaDeDoisValores = somarDoisNumeros(valor1, valor2);
+    const resultadoDaMediaDeDoisValores = resultadoDaSomaDeDoisValores / 2;
     return resultadoDaMediaDeDoisValores;
 }
 //passo 2 - Exporte as funções criadas nos exercícios anteriores.
